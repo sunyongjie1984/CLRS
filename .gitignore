@@ -7,3 +7,11 @@
 
 images/
 Tools/
+*.pbxproj
+*.xcworkspacedata
+*.plist
+*.xcuserstate
+*.xcbkptlist
+*.xcuserstate
+*.xcworkspacedata
+*.pbxproj
